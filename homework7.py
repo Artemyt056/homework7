@@ -12,5 +12,4 @@ print(cites_be_and_want)
 if not cites_be_and_want:
     print('You are open to something new!')
 else:
-    print(f"999999{', '.join(cites_be_and_want)} ")
-    
+    print(f"I think you like this cities the most: {', '.join(cites_be_and_want)} ")
