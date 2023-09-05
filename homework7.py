@@ -13,3 +13,4 @@ if not cites_be_and_want:
     print('You are open to something new!')
 else:
     print(f"999999{', '.join(cites_be_and_want)} ")
+    
